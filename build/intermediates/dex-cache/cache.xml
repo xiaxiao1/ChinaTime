@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\g2\ChinaTime\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="D:\g2\ChinaTime\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.4.0_2d199ed70bac0af6a64c9cc77cdab772f57c2202\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\g2\ChinaTime\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="30bf941886b7ba72bf08743f0f2b897661bf7ff9">
+        <dex dex="D:\g2\ChinaTime\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_22bb521ce63096accf9204869ad110c14e6b222a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\g2\ChinaTime\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="D:\g2\ChinaTime\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_79514589dd5c85b025d31d36f12eb31e1e52349d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\g2\ChinaTime\app\build\intermediates\exploded-aar\cn.bmob.android\bmob-sdk\3.5.8\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="490db347ed9d74045ee25dfd360a6adb90ec70d9">
+        <dex dex="D:\g2\ChinaTime\app\build\intermediates\transforms\dex\debug\folders\1000\10\cn.bmob.android-bmob-sdk-3.5.8_e4a5012b691844712eb5f648f692144d7856d8bb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\g2\ChinaTime\app\build\intermediates\exploded-aar\cn.bmob.android\bmob-sdk\3.5.8\jars\libs\okio-1.12.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="c65ee0a604ff98ecaed12b7dccad20fd959026a3">
+        <dex dex="D:\g2\ChinaTime\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.12.0_9448ef0fb407df29d9e97f9f7c03966062656e84\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\g2\ChinaTime\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="D:\g2\ChinaTime\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_515be8fa51fa6af7b907dc23180fa18157b88945\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\g2\ChinaTime\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="D:\g2\ChinaTime\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_352f23bf5209b941fe07e0e233dfd930bad711d2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\g2\ChinaTime\app\build\intermediates\exploded-aar\cn.bmob.android\bmob-sdk\3.5.8\jars\libs\rxandroid-1.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="84127ad71f76445b8215afceb38e8b05f58eafa6">
+        <dex dex="D:\g2\ChinaTime\app\build\intermediates\transforms\dex\debug\folders\1000\10\rxandroid-1.2.0_59ee2035a79549ed69775ae55cf18c8a69de9dc7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\g2\ChinaTime\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="D:\g2\ChinaTime\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_d03ae4d2333e24ee5f4d598c83c6cada0eb8687e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="D:\g2\ChinaTime\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_eff36cb3dd5776bcc7dfe63d3c4af3d7d0b02909\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="D:\g2\ChinaTime\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.7.0_1f3ddf859a86296da03fddcf50d19f29d652df81\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\g2\ChinaTime\app\build\intermediates\exploded-aar\cn.bmob.android\bmob-sdk\3.5.8\jars\libs\gson-2.6.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="cea3a9be08d0dcf89783b2cc87c8787fdb2a0d12">
+        <dex dex="D:\g2\ChinaTime\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.6.2_976a3118d3d25c331afa2fa45f3ba1545c92d20e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\cn.bmob.android\bmob-push\0.8\2fe391ed9034cd023de1da05cb8da77e08b46245\bmob-push-0.8.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="2fe391ed9034cd023de1da05cb8da77e08b46245">
+        <dex dex="D:\g2\ChinaTime\app\build\intermediates\transforms\dex\debug\folders\1000\10\bmob-push-0.8_b6f6bad9e9cbfe7ddfa529c72e5b7722eb520a54\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\g2\ChinaTime\app\build\intermediates\exploded-aar\cn.bmob.android\bmob-sdk\3.5.8\jars\libs\BmobSDK_3.5.8_20171013.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="f0cff4c21c8a767aae30072f2068d13bc9418273">
+        <dex dex="D:\g2\ChinaTime\app\build\intermediates\transforms\dex\debug\folders\1000\10\BmobSDK_3.5.8_20171013_0e6ad40ad5becddd199b2c3128680adb3c242cde\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\g2\ChinaTime\app\build\intermediates\exploded-aar\cn.bmob.android\bmob-sdk\3.5.8\jars\libs\org.apache.http.legacy.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="e92e46408a9824fb0d6441d327cf4b74b482b262">
+        <dex dex="D:\g2\ChinaTime\app\build\intermediates\transforms\dex\debug\folders\1000\10\org.apache.http.legacy_a8fb56c82e4b98b52dabe58ae89570cb7c622ca1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\g2\ChinaTime\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="4142203c98a05e86840f92caf2ca8266a94203b3">
+        <dex dex="D:\g2\ChinaTime\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_d10b29c5ec98750b7a97a201542f31d96765c0bc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\g2\ChinaTime\app\build\intermediates\exploded-aar\cn.bmob.android\bmob-im\2.0.5\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="46b64293efb94feb03e6270d400f95b2664513f6">
+        <dex dex="D:\g2\ChinaTime\app\build\intermediates\transforms\dex\debug\folders\1000\10\cn.bmob.android-bmob-im-2.0.5_e427075d414f933e12d63211c3f06ef8081b5fc1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\g2\ChinaTime\app\build\intermediates\exploded-aar\cn.bmob.android\bmob-im\2.0.5\jars\libs\androidasync-2.1.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="4c88f1359a331cff1ea593267d1f63dca63b364b">
+        <dex dex="D:\g2\ChinaTime\app\build\intermediates\transforms\dex\debug\folders\1000\10\androidasync-2.1.6_7db89ef32cd256c43099dec35f1f9ac7c251c75f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\g2\ChinaTime\app\build\intermediates\exploded-aar\cn.bmob.android\bmob-sdk\3.5.8\jars\libs\rxjava-1.1.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="79f0c1e382e8b62e91064ef6b71130dda83f338e">
+        <dex dex="D:\g2\ChinaTime\app\build\intermediates\transforms\dex\debug\folders\1000\10\rxjava-1.1.6_b223b6489d1a43e5cde8774cf6473601e62402f8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\g2\ChinaTime\app\build\intermediates\exploded-aar\cn.bmob.android\bmob-im\2.0.5\jars\libs\BmobNewIM_2.0.5_20160601.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="b535a2906149ccebadc4b1cab0126130916842ea">
+        <dex dex="D:\g2\ChinaTime\app\build\intermediates\transforms\dex\debug\folders\1000\10\BmobNewIM_2.0.5_20160601_3ec9de7f4e80c77f9344a39f39a53b9d886cf590\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\g2\ChinaTime\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="D:\g2\ChinaTime\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_0d8f75778130e9dbb47745a86bde258b5aeb3956\classes.dex" />
+    </item>
+
+</items>

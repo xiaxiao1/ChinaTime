@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingLeft="40dp"
+    android:orientation="horizontal"
+    >
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="150dp"
+        >
+
+        <View
+            android:layout_width="1px"
+            android:layout_height="match_parent"
+            android:layout_centerHorizontal="true"
+            android:background="#3c3e3d" />
+        <TextView
+            android:id="@+id/year"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:gravity="center"
+            android:layout_centerInParent="true"
+            android:text="gdgdgdgdgdg"
+            android:textSize="14sp"
+            android:textColor="@color/white"
+            android:background="@drawable/chaodai_item_bg" />
+
+    </RelativeLayout>
+    <TextView
+        android:id="@+id/start_tv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="dfdfdfd"
+        android:layout_gravity="center_vertical"
+        android:layout_marginLeft="20dp"
+        />
+    <TextView
+        android:id="@+id/end_tv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="dfdfdfd"
+        android:layout_gravity="center_vertical"
+        />
+
+
+</LinearLayout>
